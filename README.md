@@ -1,0 +1,1 @@
+# v-cut-indeksi-hesaplama
